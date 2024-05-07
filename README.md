@@ -15,13 +15,9 @@ I have over three years of experience as a C# Developer in many types of softwar
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=AhmedSherif90&limit=5&theme=flat&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedsherif90&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedsherif90" /> </p>
 
----
-[![](https://visitcount.itsvg.in/api?id=AhmedSherif90&icon=0&color=1)](https://visitcount.itsvg.in)
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmedsherif90" alt="ahmedsherif90" /></a> </p>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+ 
