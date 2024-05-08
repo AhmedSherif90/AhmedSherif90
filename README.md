@@ -10,7 +10,7 @@ I have over three years of experience as a C# Developer in many types of softwar
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=AhmedSherif90&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AhmedSherif90&theme=vue-dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedSherif90&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedSherif90&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&hide=javascript,html)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
